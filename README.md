@@ -3,7 +3,8 @@ Music Ball
 WWDC18 Scholarship Application (Accepted)
 ---
 This playground uses **ARKit** and **SceneKit** to combine music into reality. You can place 🌈 balls on the table and when you get close to them, they will play music just like playing the piano 🎹. This is an interesting way to create music 🎵.
-![Music Ball Playgroundbook](https://ws3.sinaimg.cn/large/006tNc79gy1fqkjhi3xs7j31hc0u07vp.jpg)
+![Music Ball Playgroundbook](MusicBall/screenshots/screenshot.png)
+![Colorful Ball](MusicBall/screenshots/colorfulball.png)
 [Youtube](https://youtu.be/pjckwZjeH7U)
  ### Interactions
  1. Allow the playground to access your camera.
